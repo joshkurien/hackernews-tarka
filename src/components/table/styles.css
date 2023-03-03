@@ -1,0 +1,36 @@
+
+.tag {
+    color: rgb(6, 29, 133);
+    padding: 0.1rem;
+  }
+  
+  .story {background-color: #ebdc59;}
+  .other {background-color: #fc2020;;}
+  
+  .info {
+    font-size: 10px;
+  }
+  
+  a:link {
+    color: rgb(216, 241, 101);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }

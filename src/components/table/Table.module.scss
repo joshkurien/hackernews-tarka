@@ -1,0 +1,20 @@
+.tableWrapper {
+    border-spacing: 0;
+    border: 1px solid #ededed;
+    width: 100%;
+  
+    tr:nth-child(2n) {
+      background-color: #1b4e03;
+    }
+    tr:nth-child(2n-1) {
+      background-color: #0c2d74;
+    }
+  
+    th {
+      padding: 15px;
+    }
+  
+    td {
+      padding: 5px 10px;
+    }
+  }
