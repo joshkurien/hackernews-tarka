@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <Body />
+      <Body from='1' to='100' />
     </div>
   )
 }

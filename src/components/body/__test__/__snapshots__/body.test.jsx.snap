@@ -1,0 +1,683 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Body > matches expected snapshot 1`] = `
+<div>
+  <div
+    class="Body"
+    data-testid="loading"
+  >
+    Loading
+  </div>
+</div>
+`;
+
+exports[`Body > matches expected snapshot 2`] = `
+<div>
+  <div
+    class="Body"
+  >
+    <h2>
+      Latest Articles
+    </h2>
+    <table
+      class="_tableWrapper_f8d775"
+      role="table"
+    >
+      <tbody
+        role="rowgroup"
+      >
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            1
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/"
+            >
+              How ChatGPT was built from the people who made it
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              mgl
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              46
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            2
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://stratoflow.com/legacy-software-systems/"
+            >
+              Legacy Software Systems: How to Live with Aging Software Architecture?
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              mgl
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              45
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            3
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://nixsanctuary.com/ukrainian-netizens-daily-struggle-amidst-war-and-how-telegram-whatsapp-viber-signal-played-a-crucial-role-for-phone-users/"
+            >
+              Telegram, WhatsApp, Viber, Signal play crucial role for Ukrainians
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              nxss
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              4
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            4
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://pierreneis.medium.com/experiences-ux-cx-sx-px-ox-ex-20ab18d6fb61"
+            >
+              Experiences: UX, CX, SX, PX, Ox, Ex – By Pierre Neis
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              vinnyglennon
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              2
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            5
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://lethain.com/engineering-in-mergers-and-acquisition/"
+            >
+              Engineering’s Role in Mergers and Acquisitions
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              kiyanwang
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              2
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            6
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://thenewstack.io/rust-project-reveals-new-constitution-in-wake-of-crisis/"
+            >
+              Rust Project Reveals New ‘Constitution’ in Wake of Crisis
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              xrayarx
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              1
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            7
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://news.ycombinator.com/item?id=35032363"
+            >
+              Ask HN: What's the best way to get all the HTML from a JavaScript site?
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              andrewfromx
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              1
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            8
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://esilva.net/articles/architecture-modernization-enabling-team"
+            >
+              Architecture Modernization Enabling Teams (AMET)
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              kiyanwang
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              2
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            9
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://en.wikipedia.org/wiki/Elo_rating_system"
+            >
+              Elo Inflation and Deflation
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              tosh
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              3
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+        <tr
+          role="row"
+        >
+          <td
+            role="cell"
+          >
+            10
+          </td>
+          <td
+            role="cell"
+          >
+            <a
+              href="https://edwardtufte.github.io/tufte-css/"
+            >
+              Tufte CSS
+            </a>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              <span
+                class="tag story"
+              >
+                story
+              </span>
+               by
+              <br />
+              stefankuehnel
+            </span>
+          </td>
+          <td
+            role="cell"
+          >
+            <span
+              class="info"
+            >
+              108
+               
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 320 512"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z"
+                />
+              </svg>
+            </span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div
+      class="pagination"
+    >
+      <button
+        disabled=""
+      >
+        &lt;&lt;
+      </button>
+       
+      <button
+        disabled=""
+      >
+        &lt;
+      </button>
+       
+      <button
+        disabled=""
+      >
+        &gt;
+      </button>
+       
+      <button
+        disabled=""
+      >
+        &gt;&gt;
+      </button>
+       
+      <span>
+        Page
+         
+        <strong>
+          1
+           of 
+          1
+        </strong>
+         
+      </span>
+      <span>
+        | Go to page:
+         
+        <input
+          style="width: 100px;"
+          type="number"
+          value="1"
+        />
+      </span>
+       
+      <select>
+        <option
+          value="10"
+        >
+          Show 
+          10
+        </option>
+        <option
+          value="20"
+        >
+          Show 
+          20
+        </option>
+        <option
+          value="30"
+        >
+          Show 
+          30
+        </option>
+        <option
+          value="40"
+        >
+          Show 
+          40
+        </option>
+        <option
+          value="50"
+        >
+          Show 
+          50
+        </option>
+      </select>
+    </div>
+  </div>
+</div>
+`;

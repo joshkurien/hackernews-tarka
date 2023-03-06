@@ -1,0 +1,61 @@
+{
+    meta: {
+        createdAt: '2023-03-06T00:30:45.864Z',
+        host: 'https://hacker-news.firebaseio.com',
+        resHumanReadable: true,
+    },
+    req: {
+        headers: {
+            'accept-language': '*',
+            'sec-fetch-mode': 'cors',
+        },
+        url: '/v0/item/35032451.json',
+        method: 'GET',
+        body: '',
+    },
+    res: {
+        status: 200,
+        headers: {
+            server: [
+                'nginx',
+            ],
+            date: [
+                'Mon, 06 Mar 2023 00:30:46 GMT',
+            ],
+            'content-type': [
+                'application/json; charset=utf-8',
+            ],
+            'content-length': [
+                '304',
+            ],
+            connection: [
+                'keep-alive',
+            ],
+            'access-control-allow-origin': [
+                '*',
+            ],
+            'cache-control': [
+                'no-cache',
+            ],
+            'strict-transport-security': [
+                'max-age=31556926; includeSubDomains; preload',
+            ],
+        },
+        body: {
+            by: 'mgl',
+            descendants: 15,
+            id: 35032451,
+            kids: [
+                35033970,
+                35035065,
+                35033472,
+                35033255,
+            ],
+            score: 46,
+            time: 1678041031,
+            title: 'How ChatGPT was built from the people who made it',
+            type: 'story',
+            url: 'https://www.technologyreview.com/2023/03/03/1069311/inside-story-oral-history-how-chatgpt-built-openai/',
+        },
+    },
+}

@@ -1,0 +1,55 @@
+{
+    meta: {
+        createdAt: '2023-03-06T00:30:47.265Z',
+        host: 'https://hacker-news.firebaseio.com',
+        resHumanReadable: true,
+    },
+    req: {
+        headers: {
+            'accept-language': '*',
+            'sec-fetch-mode': 'cors',
+        },
+        url: '/v0/item/35032344.json',
+        method: 'GET',
+        body: '',
+    },
+    res: {
+        status: 200,
+        headers: {
+            server: [
+                'nginx',
+            ],
+            date: [
+                'Mon, 06 Mar 2023 00:30:47 GMT',
+            ],
+            'content-type': [
+                'application/json; charset=utf-8',
+            ],
+            'content-length': [
+                '180',
+            ],
+            connection: [
+                'keep-alive',
+            ],
+            'access-control-allow-origin': [
+                '*',
+            ],
+            'cache-control': [
+                'no-cache',
+            ],
+            'strict-transport-security': [
+                'max-age=31556926; includeSubDomains; preload',
+            ],
+        },
+        body: {
+            by: 'tosh',
+            descendants: 0,
+            id: 35032344,
+            score: 3,
+            time: 1678040390,
+            title: 'Elo Inflation and Deflation',
+            type: 'story',
+            url: 'https://en.wikipedia.org/wiki/Elo_rating_system',
+        },
+    },
+}

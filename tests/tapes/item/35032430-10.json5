@@ -1,0 +1,58 @@
+{
+    meta: {
+        createdAt: '2023-03-06T00:30:46.956Z',
+        host: 'https://hacker-news.firebaseio.com',
+        resHumanReadable: true,
+    },
+    req: {
+        headers: {
+            'accept-language': '*',
+            'sec-fetch-mode': 'cors',
+        },
+        url: '/v0/item/35032430.json',
+        method: 'GET',
+        body: '',
+    },
+    res: {
+        status: 200,
+        headers: {
+            server: [
+                'nginx',
+            ],
+            date: [
+                'Mon, 06 Mar 2023 00:30:46 GMT',
+            ],
+            'content-type': [
+                'application/json; charset=utf-8',
+            ],
+            'content-length': [
+                '337',
+            ],
+            connection: [
+                'keep-alive',
+            ],
+            'access-control-allow-origin': [
+                '*',
+            ],
+            'cache-control': [
+                'no-cache',
+            ],
+            'strict-transport-security': [
+                'max-age=31556926; includeSubDomains; preload',
+            ],
+        },
+        body: {
+            by: 'nxss',
+            descendants: 1,
+            id: 35032430,
+            kids: [
+                35034197,
+            ],
+            score: 4,
+            time: 1678040876,
+            title: 'Telegram, WhatsApp, Viber, Signal play crucial role for Ukrainians',
+            type: 'story',
+            url: 'https://nixsanctuary.com/ukrainian-netizens-daily-struggle-amidst-war-and-how-telegram-whatsapp-viber-signal-played-a-crucial-role-for-phone-users/',
+        },
+    },
+}

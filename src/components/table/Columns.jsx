@@ -25,11 +25,11 @@ function ColumnData() {
                             const type = props.row.original['type']
                             let typeJsx = null
                             if (type === "story") {
-                                typeJsx = <span class="tag story">{type}</span>
+                                typeJsx = <span className="tag story">{type}</span>
                             } else {
-                                typeJsx = <span class="tag other">{type}</span>
+                                typeJsx = <span className="tag other">{type}</span>
                             }
-                            return (<span class="info">
+                            return (<span className="info">
                                 {typeJsx} by
                                 <br />
                                 {props.value}
@@ -40,7 +40,7 @@ function ColumnData() {
                     {
                         Header: "Points",
                         accessor: "score",
-                        Cell: props => <span class="info">{props.value} < FaBolt /></span>
+                        Cell: props => <span className="info">{props.value} < FaBolt /></span>
                     },
                 ],
             },

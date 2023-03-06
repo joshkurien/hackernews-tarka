@@ -1,0 +1,71 @@
+{
+    meta: {
+        createdAt: '2023-03-06T00:30:47.312Z',
+        host: 'https://hacker-news.firebaseio.com',
+        resHumanReadable: true,
+    },
+    req: {
+        headers: {
+            'accept-language': '*',
+            'sec-fetch-mode': 'cors',
+        },
+        url: '/v0/item/35032334.json',
+        method: 'GET',
+        body: '',
+    },
+    res: {
+        status: 200,
+        headers: {
+            server: [
+                'nginx',
+            ],
+            date: [
+                'Mon, 06 Mar 2023 00:30:47 GMT',
+            ],
+            'content-type': [
+                'application/json; charset=utf-8',
+            ],
+            'content-length': [
+                '302',
+            ],
+            connection: [
+                'keep-alive',
+            ],
+            'access-control-allow-origin': [
+                '*',
+            ],
+            'cache-control': [
+                'no-cache',
+            ],
+            'strict-transport-security': [
+                'max-age=31556926; includeSubDomains; preload',
+            ],
+        },
+        body: {
+            by: 'stefankuehnel',
+            descendants: 27,
+            id: 35032334,
+            kids: [
+                35032991,
+                35033932,
+                35033286,
+                35035299,
+                35032947,
+                35032958,
+                35033571,
+                35033350,
+                35033965,
+                35033354,
+                35033052,
+                35032994,
+                35033928,
+                35033114,
+            ],
+            score: 108,
+            time: 1678040315,
+            title: 'Tufte CSS',
+            type: 'story',
+            url: 'https://edwardtufte.github.io/tufte-css/',
+        },
+    },
+}

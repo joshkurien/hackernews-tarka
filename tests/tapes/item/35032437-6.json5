@@ -1,0 +1,67 @@
+{
+    meta: {
+        createdAt: '2023-03-06T00:30:45.906Z',
+        host: 'https://hacker-news.firebaseio.com',
+        resHumanReadable: true,
+    },
+    req: {
+        headers: {
+            'accept-language': '*',
+            'sec-fetch-mode': 'cors',
+        },
+        url: '/v0/item/35032437.json',
+        method: 'GET',
+        body: '',
+    },
+    res: {
+        status: 200,
+        headers: {
+            server: [
+                'nginx',
+            ],
+            date: [
+                'Mon, 06 Mar 2023 00:30:46 GMT',
+            ],
+            'content-type': [
+                'application/json; charset=utf-8',
+            ],
+            'content-length': [
+                '323',
+            ],
+            connection: [
+                'keep-alive',
+            ],
+            'access-control-allow-origin': [
+                '*',
+            ],
+            'cache-control': [
+                'no-cache',
+            ],
+            'strict-transport-security': [
+                'max-age=31556926; includeSubDomains; preload',
+            ],
+        },
+        body: {
+            by: 'mgl',
+            descendants: 31,
+            id: 35032437,
+            kids: [
+                35033386,
+                35034201,
+                35033482,
+                35032889,
+                35034004,
+                35034001,
+                35035051,
+                35032438,
+                35033060,
+                35032799,
+            ],
+            score: 45,
+            time: 1678040931,
+            title: 'Legacy Software Systems: How to Live with Aging Software Architecture?',
+            type: 'story',
+            url: 'https://stratoflow.com/legacy-software-systems/',
+        },
+    },
+}

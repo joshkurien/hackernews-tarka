@@ -1,10 +1,10 @@
-const uriPrefix = 'https://hacker-news.firebaseio.com/v0/';
+const uriPrefix =  import.meta.env.VITE_API_HOST +'/v0/';
 
 function Item(id) {
   return getCall(uriPrefix + 'item/' + id + '.json');
 }
 
-function TopStories() {
+function NewStories() {
   return getCall(uriPrefix + 'newstories.json');
 }
 
@@ -14,4 +14,4 @@ async function getCall(url) {
   return data
 }
 
-export { Item, TopStories };
+export { Item, NewStories };
